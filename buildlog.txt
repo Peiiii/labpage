@@ -1,0 +1,18 @@
+
+
+网站搜索控件完善
+完善网页各个板块  ！
+腾讯云学生服务器了解一下
+
+
+
+问题集锦：
+1.iis服务器刷新网页问题：
+	详细：修改HTml文件后用浏览网站打开后页面没有更新，依然为原页面。
+	解决方法：无需关闭iis 直接用电脑管家清除垃圾。
+2.无法加载外部文件，Failed to load...:
+	原因：ip地址已改变，文件中的<base>中的href应更新。
+3.element.style覆盖我的style：
+	解决办法：在我的style后添加语句！important
+		示例：outline:green ! important ；
+		
